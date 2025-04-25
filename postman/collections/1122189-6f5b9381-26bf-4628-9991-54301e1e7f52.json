@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "1122189-6f5b9381-26bf-4628-9991-54301e1e7f52",
+		"name": "Collec",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "APR Documentation",
+			"id": "1122189-fd174448-ffab-4d9e-ae73-72f58c09eace",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
