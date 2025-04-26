@@ -111,7 +111,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Request 1",
 			"id": "1122189-96699e19-4480-4b4f-a02d-d72b4f0f191e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
