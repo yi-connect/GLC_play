@@ -157,6 +157,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "glc 3",
+			"id": "1122189-81c5144c-cc7a-463e-b37d-d8e5a752fedd",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
