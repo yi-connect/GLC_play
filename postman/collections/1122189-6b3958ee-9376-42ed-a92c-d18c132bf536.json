@@ -121,6 +121,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "Hello Request",
+			"id": "1122189-0ec7af7e-94c6-46b5-b8a2-1a907f64fe48",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
