@@ -169,6 +169,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "glc 4",
+			"id": "1122189-fd3fc583-9235-42b0-92a2-f55aba5ae95e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
