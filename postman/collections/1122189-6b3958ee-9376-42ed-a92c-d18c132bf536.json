@@ -133,6 +133,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "glC",
+			"id": "1122189-fc4f3265-a0b6-4c6d-be22-2e5230a93768",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
