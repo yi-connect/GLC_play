@@ -1,12 +1,12 @@
 {
 	"info": {
 		"_postman_id": "1122189-6b3958ee-9376-42ed-a92c-d18c132bf536",
-		"name": "Hello3",
+		"name": "Hello4",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "New Requestsee",
 			"id": "1122189-5e99a983-e514-4999-abf9-371357dd735e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
@@ -209,6 +209,18 @@
 		{
 			"name": "New Request",
 			"id": "1122189-98bd86f6-a7f6-4eaf-8893-1481d6f1eb17",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-62ffc498-540f-49df-b5aa-ea7c63099b8d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
